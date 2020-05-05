@@ -1,2 +1,2 @@
 # golang
-Hier mijn golang code voor het vak programming infrastructure FHICT.
+Hier mijn (Tijn van den Heuvel)) excercises voor het vak programming infrastructure FHICT. (19/20)
